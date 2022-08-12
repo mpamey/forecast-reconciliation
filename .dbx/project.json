@@ -2,8 +2,8 @@
     "environments": {
         "default": {
             "profile": "DEFAULT",
-            "workspace_dir": "/Shared/dbx/ah_sa_reconciliation_demo",
-            "artifact_location": "dbfs:/Shared/dbx/projects/ah_sa_reconciliation_demo"
+            "workspace_dir": "/Shared/dbx/forecast-reconciliation",
+            "artifact_location": "dbfs:/Shared/dbx/projects/forecast-reconciliation"
         }
     }
 }
