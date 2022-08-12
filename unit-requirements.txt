@@ -1,0 +1,6 @@
+setuptools
+wheel
+pyyaml
+pytest
+pytest-cov
+dbx
