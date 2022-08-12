@@ -13,7 +13,7 @@ environments:
   default:
     strict_path_adjustment_policy: true
     jobs:
-      - name: "ah-sa-reconciliation-demo-sample"
+      - name: "forecast-reconciliation"
         <<:
           - *basic-static-cluster
         spark_python_task:

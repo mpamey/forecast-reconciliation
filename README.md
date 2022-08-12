@@ -1,4 +1,4 @@
-# ah-sa-reconciliation-demo
+# forecast reconciliation
 
 In many large enterprises, forecasts are made throughout the company on differing hierarchy levels for different goals. Perhaps one team creates forecasts for the expected sales of each individual product in the coming two weeks. Meanwhile, another team delivers forecasts for entire categories until the end of the year. A problem arises when multiple models are used throughout the
 company and the results of each model don't add up. In order to utilize the best model for each 

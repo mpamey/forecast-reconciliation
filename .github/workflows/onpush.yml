@@ -42,10 +42,10 @@ jobs:
 
       - name: Deploy integration test
         run: |
-          dbx deploy --jobs=ah-sa-reconciliation-demo-sample-integration-test --files-only
+          dbx deploy --job=sample-integration-test --files-only
 
       - name: Run integration test
         run: |
-          dbx launch --job=ah-sa-reconciliation-demo-sample-integration-test --as-run-submit --trace
+          dbx launch --job=sample-integration-test --as-run-submit --trace
 
 
